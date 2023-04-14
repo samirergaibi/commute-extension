@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Commute Helper",
+  "description": "Helps Samir specifically to see his most common commute paths quickly!",
+  "version": "0.0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "options_page": "options/index.html",
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}
