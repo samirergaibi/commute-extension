@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Commute Helper",
-  "description": "Helps Samir specifically to see his most common commute paths quickly!",
+  "description": "Save and quickly view your regular commuting routes in Sweden",
   "version": "0.0.1",
   "action": {
     "default_popup": "index.html",
