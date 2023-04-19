@@ -1,6 +1,6 @@
 import { JSX } from "preact";
 import { useState } from "preact/hooks";
-import { Container, Button, Notification } from "@mantine/core";
+import { Container, Button, Notification, Anchor } from "@mantine/core";
 import { IconCheck } from "@tabler/icons-react";
 
 import StopsAutoComplete from "./components/StopsAutoComplete";
@@ -41,6 +41,9 @@ const Options = () => {
           mt="md"
         >
           Your new settings have been saved!
+          <Anchor sx={{ display: "block" }} href="/index.html">
+            Start using app
+          </Anchor>
         </Notification>
       )}
     </Container>
