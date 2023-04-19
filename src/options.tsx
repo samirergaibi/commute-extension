@@ -21,7 +21,7 @@ const Options = () => {
   };
 
   return (
-    <Container>
+    <Container p={40}>
       <h1>Settings!</h1>
       <p>Set the stations that you wish to see when opening the extension.</p>
 

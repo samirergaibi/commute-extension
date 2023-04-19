@@ -1,5 +1,5 @@
 import { useState, useEffect } from "preact/hooks";
-import { Image, Anchor } from "@mantine/core";
+import { Image, Anchor, Container } from "@mantine/core";
 
 import Time from "./components/Time";
 import { Settings } from "./types";
@@ -35,12 +35,12 @@ export function App() {
 
   if (!firstStop || !secondStop) {
     return (
-      <div>
+      <Container p={40}>
         <p>
           To use this application you need to add two stops to your settings!
         </p>
-        <Anchor href="/options/">Go to settings</Anchor>
-      </div>
+        <Anchor href="/options/index.html">Go to settings</Anchor>
+      </Container>
     );
   }
 
