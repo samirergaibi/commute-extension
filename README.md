@@ -10,7 +10,7 @@ Currently waiting for approval to publish at [https://chrome.google.com/webstore
 
 ## How to install locally
 
-You will need an API key from [https://www.trafiklab.se/](https://www.trafiklab.se/) for the ResRobot v2.1 service. It is free!
+You will need an API key from [https://www.trafiklab.se/](https://www.trafiklab.se/) for the [ResRobot v2.1 service](https://www.trafiklab.se/api/trafiklab-apis/resrobot-v21/). It is free!
 
 1. Clone this repository
 2. Create a `.env` file and add your API key `VITE_API_KEY="YOUR-API-KEY"`
