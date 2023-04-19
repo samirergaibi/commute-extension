@@ -2,7 +2,7 @@
 
 ## Description
 
-A chrome extension for quickly looking up the next next departures between two stations in Sweden.
+A chrome extension for quickly looking up the next departures between two stations in Sweden.
 
 ## Where to install
 
