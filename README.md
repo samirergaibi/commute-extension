@@ -4,11 +4,11 @@
 
 A chrome extension for quickly looking up the next departures between two stations in Sweden.
 
-## Where to install
+## Install
 
-Currently waiting for approval to publish at [https://chrome.google.com/webstore](https://chrome.google.com/webstore)
+Commute helper is published on the chrome web store and can be installed [here](https://chrome.google.com/webstore/detail/commute-helper/dclghcafhdikahhookjkphbfpbckienm).
 
-## How to install locally
+## Run locally
 
 You will need an API key from [https://www.trafiklab.se/](https://www.trafiklab.se/) for the [ResRobot v2.1 service](https://www.trafiklab.se/api/trafiklab-apis/resrobot-v21/). It is free!
 
